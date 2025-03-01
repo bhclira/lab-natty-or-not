@@ -3,7 +3,7 @@
 > Entenda como as máquinas enxeregam! 👀
 
 ## 📒 Descrição
-Este e-book de 3 páginas explora Redes Neurais e Visão Computacional totalmente resumido para você sair do zero em matéria de funcionamento das IA´s.
+Este e-book de 3 páginas explora Redes Neurais e Visão Computacional totalmente resumido para você sair do zero em matéria de funcionamento das IA´s. A partir do e-book, usei outra ferramenta de IA que fornece um template de Podcast e utiliza-se de Text-To-Speech para simular um diálogo entre Agentes de IA a partir do conteúdo fornecido como insumo.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Microsoft Copilot](https://copilot.cloud.microsoft/?fromcode=bingchat&redirectid=084DA80843C2485EBCD4EF669B0D0720&auth=2)** para roteirização e sumarização do conteúdo;
