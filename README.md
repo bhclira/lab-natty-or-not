@@ -19,7 +19,5 @@ O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como
 
 [E-BOOK em PDF](https://github.com/bhclira/lab-natty-or-not/blob/main/e-book.pdf)
 
-[Audio do Podcast](https://github.com/bhclira/lab-natty-or-not/blob/main/podcast/Gravando%202025-03-01%20125058.mp4)
-
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos. Tambrm fiz asimulação de um podcast, aproximando e modulando as respostas da IA, utilizando a propriedade Text-to-Speech.
